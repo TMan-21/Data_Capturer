@@ -1,0 +1,12 @@
+C:\Users\uzair\OneDrive\Desktop\PRG282\Project\PRG_Project_Final\bin\Debug\PRG_Project_Final.exe.config
+C:\Users\uzair\OneDrive\Desktop\PRG282\Project\PRG_Project_Final\bin\Debug\PRG_Project_Final.exe
+C:\Users\uzair\OneDrive\Desktop\PRG282\Project\PRG_Project_Final\bin\Debug\PRG_Project_Final.pdb
+C:\Users\uzair\OneDrive\Desktop\PRG282\Project\PRG_Project_Final\obj\Debug\PRG_Project_Final.csproj.AssemblyReference.cache
+C:\Users\uzair\OneDrive\Desktop\PRG282\Project\PRG_Project_Final\obj\Debug\PRG_Project_Final.Login.resources
+C:\Users\uzair\OneDrive\Desktop\PRG282\Project\PRG_Project_Final\obj\Debug\PRG_Project_Final.Presentation.Student_Capture.resources
+C:\Users\uzair\OneDrive\Desktop\PRG282\Project\PRG_Project_Final\obj\Debug\PRG_Project_Final.Properties.Resources.resources
+C:\Users\uzair\OneDrive\Desktop\PRG282\Project\PRG_Project_Final\obj\Debug\PRG_Project_Final.csproj.GenerateResource.cache
+C:\Users\uzair\OneDrive\Desktop\PRG282\Project\PRG_Project_Final\obj\Debug\PRG_Project_Final.csproj.CoreCompileInputs.cache
+C:\Users\uzair\OneDrive\Desktop\PRG282\Project\PRG_Project_Final\obj\Debug\PRG_Project_Final.exe
+C:\Users\uzair\OneDrive\Desktop\PRG282\Project\PRG_Project_Final\obj\Debug\PRG_Project_Final.pdb
+C:\Users\uzair\OneDrive\Desktop\PRG282\Project\PRG_Project_Final\obj\Debug\PRG_Project_Final.Presentation.Modules.resources
